@@ -1,2 +1,2 @@
 # DTA_GCE
-(c) 2008 Lihe Wang. All rights reserved.
+(c) 2018 Lihe Wang. All rights reserved.
